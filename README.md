@@ -72,7 +72,7 @@
 </a>
 </center>
 
-&nbsp;
+&nbsp; 
 
 ### Desarrollé una App de Perros que incluía: búsquedas, filtrados, ordenamientos y creación.
 ### Usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
