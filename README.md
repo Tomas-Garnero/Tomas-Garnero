@@ -25,7 +25,11 @@
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
             <img width="10%" height="30px"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
         </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img width="10%" height="30px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+        </a> 
         <br />
+    
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="50"/>             </a> 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -43,23 +47,7 @@
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60"                      height="50"/> 
         </a> 
-    
-
-    
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="50"/> 
         </a>
-        
-        <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-        </a> 
-        
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>             </a> 
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-        </a> 
-        
-        
-       
     </p>
