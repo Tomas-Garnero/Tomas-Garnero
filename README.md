@@ -97,4 +97,18 @@
 <a href="https://www.linkedin.com/in/tomas-garnero/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
 <a href="mailto:tomygarnero9429@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
 </span></a>
+
+&nbsp;
+    
+## 📊 GitHub Stats:
 <br/>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomas-garnero&show_icons=true&locale=en&layout=compact" alt="tomas-garnero" /></p>
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas-garnero&show_icons=true&locale=en" alt="tomas-garnero" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomas-garnero&" alt="tomas-garnero" />
+</p>
+
