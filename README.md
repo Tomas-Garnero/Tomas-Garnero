@@ -6,7 +6,7 @@
 </h2>
 
 &nbsp;&nbsp;
-<img align="left" src="https://komarev.com/ghpvc/?username=tomas-garnero&label=Profile%20views&color=0e75b6&style=flat" alt="tomas-garnero" /> 
+[![](https://visitcount.itsvg.in/api?id=Tomas-Garnero&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <img align="right" alt="coding" width="300px" height="300px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
 <br />
 <br />
