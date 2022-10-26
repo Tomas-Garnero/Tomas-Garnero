@@ -55,14 +55,15 @@
 
 ## :pushpin: My proyects
 
-### Página perteneciente a un refugio de animales domésticos, que a su vez posee elementos de E-Commerce. App que permite hacer compras de productos, dejar reviews, ver los reviews de los demas compradores, sistema de login y autenticación por google. Ademas de posibilidad de adoptar o dejar en adopcion algun animal. Cuenta tambien con Panel Admin y funciones correspondientes.
-### Usando React, Redux, Material UI en el Frontend  y Node, Express, Sequelize en el Backend
+### Página perteneciente a un refugio de animales domésticos, que a su vez posee elementos de E-Commerce. 
+#### App que permite hacer compras de productos, dejar reviews, ver los reviews de los demas compradores, sistema de login y autenticación por google. Ademas de posibilidad de adoptar o dejar en adopcion algun animal. Cuenta tambien con Panel Admin y funciones correspondientes.
+#### Usando React, Redux, Material UI en el Frontend  y Node, Express, Sequelize en el Backend
 <center>
     <p>
         <a><img src="./assets/Img1FeetSies.png" width="40%"></a>
-        <a><img src="./assets/Img2FeetSie.png" width="40%"></a>
+        <a><img src="./assets/Img2FeetSies.png" width="40%"></a>
         <a><img src="./assets/Img3FeetSies.png" width="40%"></a>
-        <a><img src="./assets/Img4FeetSie.png" width="40%"></a>
+        <a><img src="./assets/Img4FeetSies.png" width="40%"></a>
     </p> 
 </center>
 <center><h2>Press to go deploy</h2></center>
@@ -73,7 +74,7 @@
 
 &nbsp;
 
-### Desarrollé una App de Perros que incluía: búsquedas, filtrados, ordenamientos y creación
+### Desarrollé una App de Perros que incluía: búsquedas, filtrados, ordenamientos y creación.
 ### Usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
 <br/>
 <center>
