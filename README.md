@@ -67,7 +67,7 @@
     </p> 
 </center>
 <center>
-    <h2 >
+    <h2 align="center">
         Press to go to deploy ------>
         <a align="center" href="https://e-comics.vercel.app/">
             <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
