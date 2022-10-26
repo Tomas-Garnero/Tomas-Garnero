@@ -6,7 +6,7 @@
 </h2>
 
 &nbsp;&nbsp;
-<img align="right" alt="coding" width="400px" height="400px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
+<img align="right" alt="coding" width="350px" height="350px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
 
 <h3 align="left">💻 Languages and Tools:</h3>
     <p align="left"> 
