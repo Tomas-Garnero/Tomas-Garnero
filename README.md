@@ -8,7 +8,7 @@
 &nbsp;&nbsp;
 
 <img align="left" src="https://komarev.com/ghpvc/?username=tomas-garnero&label=Profile%20views&color=0e75b6&style=flat" alt="tomas-garnero" /> 
-<img align="right" alt="coding" width="350px" height="350px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
+<img align="right" alt="coding" width="300px" height="300px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
 <br />
 
 ## 💻 Languages and Tools:
@@ -56,5 +56,5 @@
 
 ## :pushpin: My proyects
 
-#### Desarrollé una App de perros que incluía: búsquedas, filtrados, ordenamientos y creación
+### Desarrollé una App de perros que incluía: búsquedas, filtrados, ordenamientos y creación
 ### Usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
