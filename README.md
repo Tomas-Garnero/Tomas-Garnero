@@ -6,7 +6,8 @@
 </h2>
 
 &nbsp;&nbsp;
-
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/103439933/198102222-af609f67-ac1f-4135-8cdc-ccce24894f05.png)
+"
 <h3 align="left">💻 Languages and Tools:</h3>
     <p align="left"> 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
