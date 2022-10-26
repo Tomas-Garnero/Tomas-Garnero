@@ -27,10 +27,10 @@
         </a>
         <br />
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"                          style="margin:10px 10px"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="50" /> 
         </a> 
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin:50px                50px"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="50" /> 
         </a> 
 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
