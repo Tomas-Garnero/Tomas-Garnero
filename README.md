@@ -102,11 +102,13 @@
     
 ## 📊 GitHub Stats:
 <br/>
-<p align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomas-garnero&show_icons=true&locale=en&layout=compact" alt="tomas-garnero" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomas-garnero&show_icons=true&locale=en&layout=compact" alt="tomas-garnero" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas-garnero&show_icons=true&locale=en" alt="tomas-garnero" />
+</p>
 <p align="center">
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas-garnero&show_icons=true&locale=en" alt="tomas-garnero" />
+    
 </p>
 <p align="right">
     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tomas-garnero&" alt="tomas-garnero" />
