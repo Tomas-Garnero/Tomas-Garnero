@@ -67,12 +67,13 @@
     </p> 
 </center>
 <center>
-    <h2 align="left">Press to go to deploy</h2>
-    <a align="center" href="https://e-comics.vercel.app/">
-        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
-    </a>
+    <h2 align="left">
+        Press to go to deploy
+        <a align="center" href="https://e-comics.vercel.app/">
+            <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
+        </a>
+    </h2>
 </center>
-
 
 &nbsp; 
 
