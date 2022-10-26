@@ -7,5 +7,5 @@
 
 &nbsp;&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-## 💻 Languages and Tools:
+<h3 align="left">💻 Languages and Tools:</h3>
+
