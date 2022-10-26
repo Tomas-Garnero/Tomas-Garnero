@@ -66,11 +66,13 @@
         <a><img src="./assets/Img4FeetSies.png" width="40%"></a>
     </p> 
 </center>
-<center><h2>Press to go deploy</h2></center>
 <center>
-<a href="https://e-comics.vercel.app/"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
-</a>
+    <h2 align="left">Press to go to deploy</h2>
+    <a align="center" href="https://e-comics.vercel.app/">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
+    </a>
 </center>
+
 
 &nbsp; 
 
