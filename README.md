@@ -92,4 +92,9 @@
 
 &nbsp;
 
-
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/tomas-garnero/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"> &nbsp;
+<a href="mailto:tomygarnero9429@gmail.com" ><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+</span></a>
+<br/>
