@@ -13,9 +13,8 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
     <p align="left"> 
-        <img width="10%" height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-        <img width="10%" height="30px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-        
+        <img width="10%" height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img width="10%" height="30px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
         <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
             <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" margin> 
         </a> 
