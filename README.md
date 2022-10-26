@@ -14,7 +14,7 @@
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img width="10%" height="30px" styles="border: 10px solid red" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img width="10%" height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img width="10%" height="30px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -55,6 +55,24 @@
 
 ## :pushpin: My proyects
 
+### Página perteneciente a un refugio de animales domésticos, que a su vez posee elementos de E-Commerce. App que permite hacer compras de productos, dejar reviews, ver los reviews de los demas compradores, sistema de login y autenticación por google. Ademas de posibilidad de adoptar o dejar en adopcion algun animal. Cuenta tambien con Panel Admin y funciones correspondientes.
+### Usando React, Redux, Material UI en el Frontend  y Node, Express, Sequelize en el Backend
+<center>
+    <p>
+        <a><img src="./assets/Img1FeetSies.png" width="40%"></a>
+        <a><img src="./assets/Img2FeetSie.png" width="40%"></a>
+        <a><img src="./assets/Img3FeetSies.png" width="40%"></a>
+        <a><img src="./assets/Img4FeetSie.png" width="40%"></a>
+    </p> 
+</center>
+<center><h2>Press to go deploy</h2></center>
+<center>
+<a href="https://e-comics.vercel.app/"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
+</a>
+</center>
+
+&nbsp;
+
 ### Desarrollé una App de Perros que incluía: búsquedas, filtrados, ordenamientos y creación
 ### Usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
 <br/>
@@ -68,5 +86,7 @@
         <a><img src="./assets/Img4Dogs.png" width="40%"></a>
     </p>
 </center>
+
+&nbsp;
 
 
