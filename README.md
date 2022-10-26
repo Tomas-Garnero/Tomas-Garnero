@@ -70,7 +70,7 @@
 <center>
     <h2 align="center">
         Press to go to deploy ------>
-        <a align="center" href="https://e-comics.vercel.app/">
+        <a align="center" href="https://pfgrupo3.vercel.app">
             <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" />
         </a>
     </h2>
@@ -82,11 +82,9 @@
 #### Usando React, Redux, CSS puro para el Frontend y desarrollado en Node.js con Express para el Backend. Base de datos en PostgreSQL y Sequelize.
 <br/>
 <center>
-    <div>
+    <p>
         <a><img src="./assets/Img1Dogs.png" width="40%"></a>
         <a><img src="./assets/Img2Dogs.png" width="40%"></a>
-    </div>
-    <p>
         <a><img src="./assets/Img3Dogs.png" width="40%"></a>
         <a><img src="./assets/Img4Dogs.png" width="40%"></a>
     </p>
