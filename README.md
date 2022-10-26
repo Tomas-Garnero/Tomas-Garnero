@@ -6,6 +6,9 @@
 </h2>
 
 &nbsp;&nbsp;
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=tomas-garnero&label=Profile%20views&color=0e75b6&style=flat" alt="tomas-garnero" /> 
+</p>
 <img align="right" alt="coding" width="350px" height="350px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
 
 <h3 align="left">💻 Languages and Tools:</h3>
