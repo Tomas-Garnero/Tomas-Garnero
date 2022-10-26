@@ -61,7 +61,7 @@
 <br/>
 <center>
     <div>
-        <a><img src="./assets/Img1Dogs.png" width="40%"></a>
+        <img src="./assets/Img1Dogs.png" width="40%">
         <a><img src="./assets/Img2Dogs.png" width="40%"></a>
     </div>
     <p>
