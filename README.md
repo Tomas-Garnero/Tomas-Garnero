@@ -57,3 +57,17 @@
 
 ### Desarrollé una App de perros que incluía: búsquedas, filtrados, ordenamientos y creación
 ### Usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+
+<br/>
+<center>
+    <div>
+        <a><img src="./assets/Img1Dogs.png" width="40%"></a>
+        <a><img src="./assets/Img2Dogs.png" width="40%"></a>
+    </div>
+    <p>
+        <a><img src="./assets/Img3Dogs.png" width="40%"></a>
+        <a><img src="./assets/Img4Dogs.png" width="40%"></a>
+    </p>
+</center>
+
+
