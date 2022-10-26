@@ -6,3 +6,68 @@
 </h2>
 
 &nbsp;&nbsp;
+[![](https://visitcount.itsvg.in/api?id=Tomas-Garnero&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<img align="right" alt="coding" width="300px" height="300px" src="https://codersboot.com/wp-content/uploads/2022/01/39998-web-development.gif" />
+<br />
+<br />
+## 💻 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img width="10%" height="30px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img width="10%" height="30px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img width="10%" height="30px"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img width="10%" height="30px"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img width="10%" height="30px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    </a> 
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="50" />           </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="50" /> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="50" /> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50" /> 
+    </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" /> 
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60"                      height="50" /> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="50" /> 
+    </a>
+</p>
+
+&nbsp;
+
+## :pushpin: My proyects
+
+### Desarrollé una App de perros que incluía: búsquedas, filtrados, ordenamientos y creación
+### Usando para el Front React, Redux, CSS puro y Back desarrollado en Node.js con Express. Base de datos en PostgreSQL y Sequelize.
+
+<br/>
+<center>
+    <div>
+        <a><img src="./assets/Img1Dogs.png" width="40%"></a>
+        <a><img src="./assets/Img2Dogs.png" width="40%"></a>
+    </div>
+    <p>
+        <a><img src="./assets/Img3Dogs.png" width="40%"></a>
+        <a><img src="./assets/Img4Dogs.png" width="40%"></a>
+    </p>
+</center>
+
+
